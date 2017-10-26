@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GradeAnalyzer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_drawer_home">Übersicht</string>
+    <string name="nav_drawer_grades">Meine Noten</string>
+    <string name="nav_drawer_statistic">Statistik</string>
+
+    <string name="avg_grade">1,6</string>
+    <string name="cur_sem">5. Semester</string>
+    <string name="name">Jane Doe</string>
+    <string name="course">Computer Engineering ( B. Eng.)</string>
+    <string name="ects">120 / 180 ECTS</string>
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/nav_drawer_home" />
+        <item
+            android:id="@+id/nav_grades"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/nav_drawer_grades" />
+        <item
+            android:id="@+id/nav_statistic"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/nav_drawer_statistic" />
+    </group>
+
+    <item android:title="Optionaler Stuff">
+        <menu>
+            <item
+                android:id="@+id/nav_prognose"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Prognose" />
+            <item
+                android:id="@+id/nav_archievements"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Archievements" />
+        </menu>
+    </item>
+
+</menu>
